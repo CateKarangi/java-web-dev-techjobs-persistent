@@ -1,5 +1,5 @@
 ## Part 1: Test it with SQL
-describe techjobs.job;
+Describeobs.job
 
 ## Part 2: Test it with SQL
 SELECT * FROM techjobs.employer AS e WHERE e.location LIKE 'St. Louis' OR e.location='St. Louis City';
